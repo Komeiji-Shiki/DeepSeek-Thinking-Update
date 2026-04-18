@@ -1,0 +1,12 @@
+openai>=1.0.0
+flask>=2.0.0
+requests>=2.28.0
+
+beautifulsoup4>=4.9.3
+playwright
+html2text
+readability-lxml
+numpy
+google-generativeai
+duckduckgo-search
+playwright
